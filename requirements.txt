@@ -1,1 +1,6 @@
 streamlit
+matplotlib
+pandas
+import 
+numpy
+scipy
